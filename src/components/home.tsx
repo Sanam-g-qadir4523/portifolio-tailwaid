@@ -28,7 +28,7 @@ function Home1() {
             <Image
               className="object-cover object-center rounded-full shadow-2xl transform transition-all duration-500 hover:scale-105 hover:shadow-2xl"
               alt="hero"
-              src="/image.jpg"
+              src="/image.png"
               height={500}
               width={500}
             />

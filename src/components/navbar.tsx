@@ -13,7 +13,7 @@ function Navbar() {
               
           <Image className='rounded-full h-12 w-12'
           
-          src="/image.jpg"
+          src="/image.png"
           alt='LOGO'
           height={1000}
           width={1000}
